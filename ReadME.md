@@ -242,8 +242,3 @@ Twitter文本情绪分类[Text Sentiment](https://github.com/dafish-ai/NTU-Machi
 
 ![enter image description here](https://images.gitbook.cn/77443310-3e1e-11e9-a7f2-db689d3df630)
 
-## 联系我们：<br>
-官网：[点击进入](http://www.dayufish.com/) <br>
-官方公众号：
-
-![](assets/markdown-img-paste-20190216162623187.png)
